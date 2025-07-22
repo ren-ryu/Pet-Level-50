@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ren-ryu/Pet-Level-50/refs/heads/main/petlol"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ren-ryu/lae-scripts-/refs/heads/main/MainUI.txt"))()
